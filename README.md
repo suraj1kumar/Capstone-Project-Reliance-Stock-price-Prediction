@@ -67,6 +67,4 @@ The project demonstrated the potential of machine learning, specifically Random 
 # Future Scope of Work
 Future work could explore other machine learning algorithms, incorporate more features, and improve the model's performance. Further research can also investigate the impact of different external factors on stock prices.
 
-# References
-A list of references used in this project is provided in the final section of the report document.
 
